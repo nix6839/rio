@@ -28,7 +28,7 @@ documentation = "https://github.com/raphamorim/rio#readme"
 # version from crates.io when published.
 sugarloaf = { path = "sugarloaf", version = "0.0.27" }
 corcovado = { path = "corcovado", version = "0.0.27" }
-rio-config = { path = "rio-config", version = "0.0.27" }
+rio-backend = { path = "rio-backend", version = "0.0.27" }
 rio-proc-macros = { path = "rio-proc-macros", version = "0.0.27" }
 copa = { path = "copa", default-features = true, version = "0.0.27" }
 teletypewriter = { path = "teletypewriter", version = "0.0.27" }
